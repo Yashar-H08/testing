@@ -13,6 +13,6 @@ int main()
 //	freopen("in.txt","r",stdin);
 //	freopen("out.txt","w",stdout);
 a:
-	cout << "edited\n";
+	cout << "edited again\n";
 //	goto a;
 }
